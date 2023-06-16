@@ -1,5 +1,5 @@
 # <h1 align="center">👨‍💻 Welcome Programmer</h1>
-![I am Web developer](https://media.licdn.com/dms/image/D5616AQEJFA1YMiT5oQ/profile-displaybackgroundimage-shrink_350_1400/0/1670910194853?e=1686787200&v=beta&t=CDlUDFUzG3HZ7w-TGdUU98XjxzME8rW7VXMQfoFbmAo)
+![I am Web developer](https://media.licdn.com/dms/image/D5616AQEJFA1YMiT5oQ/profile-displaybackgroundimage-shrink_350_1400/0/1670910194853?e=1692230400&v=beta&t=GKDiP1ckret2KvNNuFX-eHER4UC18-pDFRigiqQxSYc)
 ### Hi there <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I am Masud Rana
 <h2 align="center">A passionate Mern-Stack Developer from Bangladesh</h2>
 
@@ -56,8 +56,5 @@
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masudwebdeveloper)   -->
 
-![GitHub metrics](https://metrics.lecoq.io/masudwebdeveloper)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masudwebdeveloper)  
 
-![Profile views](https://gpvc.arturio.dev/masudwebdeveloper)  
