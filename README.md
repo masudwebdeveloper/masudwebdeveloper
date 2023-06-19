@@ -1,5 +1,5 @@
 # <h1 align="center">👨‍💻 Welcome Programmer</h1>
-![I am Web developer](https://media.licdn.com/dms/image/D5616AQEJFA1YMiT5oQ/profile-displaybackgroundimage-shrink_350_1400/0/1670910194853?e=1692230400&v=beta&t=GKDiP1ckret2KvNNuFX-eHER4UC18-pDFRigiqQxSYc)
+![I am Web developer](https://media.licdn.com/dms/image/D5616AQFHzElybw7lNQ/profile-displaybackgroundimage-shrink_350_1400/0/1687174910423?e=1692835200&v=beta&t=Znd59WhV7svBrH7BsXgpGBIDv6qnBkKe2qq8zMElU3Q)
 ### Hi there <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I am Masud Rana
 <h2 align="center">A passionate Mern-Stack Developer from Bangladesh</h2>
 
@@ -9,9 +9,9 @@
 
 ## For FrontEnd
 
-* Primary Skills: HTML / CSS / Git & Github 
-*  CSS FramWork : Bootstrap / Tailwindcss
-*  Tailwind Component library : daisyUI / MambaUI / Kitwind / Flowbite / HyperUi
+* Primary Skills: HTML / CSS / Git & GitHub 
+*  CSS FramWork: Bootstrap / Tailwindcss
+*  Tailwind Component library: daisyUI / MambaUI / Kitwind / Flowbite / HyperUi
 *  JavaScript and TypeScript with mordern js ES6 / API / DEV Tools & Debuging
 *  JaraScript Library: React.js / NextJs
 
@@ -25,7 +25,7 @@
 * Redux
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> /
 - 🌱 I’m currently learning MERN <br>
-- 👯 I’m looking to collaborate on github  <br>
+- 👯 I’m looking to collaborate on GitHub  <br>
 - 💬 Ask me about [message](https://www.facebook.com/messages/t/100009612967957) <br>
 - 📫 How to reach me: [Facebook](https://www.facebook.com/Masudrana2143/) <br>
 
