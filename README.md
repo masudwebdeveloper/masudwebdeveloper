@@ -50,5 +50,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masudwebdeveloper&show_icons=true)
 
-<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masudwebdeveloper)  -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masudwebdeveloper)
 
